@@ -1,0 +1,100 @@
+
+
+
+div {
+    margin: 20px;
+  }
+  
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  
+  button {
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+ 
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #a27474;
+  }
+  
+ 
+  
+  
+  table table {
+    width: 100%;
+  }
+  
+  table table th, table table td {
+    padding: 6px;
+  }
+  
+  table table th {
+    background-color: #654747;
+  }
+  
+  table table tbody tr:nth-child(odd) {
+    background-color: #eaeaea;
+  }
+  table table tbody tr:nth-child(even) {
+    background-color: #eaeaea;
+  }
+
+
+
+
+.deletebutton {
+    padding: 8px 20px;
+    background-color: #dc3545; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .deletebutton:hover {
+    background-color: #c82333; 
+  }
+
+
+
+.update-button {
+    padding: 8px 20px;
+    background-color: #007bff; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none; 
+    display: inline-block; 
+    margin-right: 10px; 
+  }
+  
+  .update-button:hover {
+    background-color: #0056b3; 
+  }
+  
